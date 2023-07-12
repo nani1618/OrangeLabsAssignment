@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer_automation_demo",
+  "version": "1.0.0",
+  "description": "Assignment for internship",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vedavrath Pathi",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.8.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
